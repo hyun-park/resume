@@ -1,15 +1,15 @@
-# JUNGHYUN PARK
-+82)10-4710-5607  rockethyun@gmail.com  linkedin.com/in/rocket
-----
+# JUNGHYUN PARK  
++82)10-0000-0000 / rockethyun@gmail.com / [github.com/Rocket-Hyun](github.com/Rocket-Hyun) / [linkedin.com/in/rockethacker](linkedin.com/in/rockethacker)
+
 ## Objective
 
 Seeking a job in the field of software engineering
 
 ## Education
 
-Sogang University in Seoul, Korea / Junior status
-Double major in Convergence Software and Business
-Anticipated date of graduation: June, 2019
+Sogang University in Seoul, Korea / Junior status  
+Double major in Convergence Software and Business  
+Anticipated date of graduation: June, 2019  
 
 ## Skills
 
