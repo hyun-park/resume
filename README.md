@@ -33,7 +33,7 @@ Anticipated date of graduation: June, 2019
   - Used JWT (JSON Web Token) for user authentication & FCM (Firebase Cloud Messaging) for push notification
   - Our Team was selected as Google Cloud Platform Korea 2017 Speaker
 
-  - Androidk: https://goo.gl/4EXnF3
+  - Android: https://goo.gl/4EXnF3
   - iOS: https://goo.gl/JV47Tw
   - Github: https://github.com/Rocket-Hyun/__RailsAPI__ssumtago_sever
 
@@ -44,7 +44,7 @@ Anticipated date of graduation: June, 2019
   - Responsible for Web Application Front-End that changes scripts in real-time by voice data sent from mobile application.
   - Used Jquery with NodeJS ejs template
   - Used Socket.io for connecting server and Android application
-  - Won First Place in Hackathon (Unithon)
+  - Won First Place in Hackathon called Unithon
 
 - Woong's road
   - 2016.06 - 2016.08 (3 Month)
@@ -57,12 +57,31 @@ Anticipated date of graduation: June, 2019
 
 ## Activity
 
-- Naver  
+- Naver Software Developer Internship  
   - 2017.12 - 2018.02 (7 weeks)
-  -
+  - Worked in Naver which is one of the Korea's biggest software company
+  - Prototyped Web Standard Download Manager for all download services in Naver
+  - Learned knowledge about HTTP, TCP/IP and network programming
+  - Learned Advanced Javascript Skills in Web W3C standards
+  - Learned programming skills like naming convention, modular programming etc.
 
-- LikeLion
-- Silicon Valley Hackathon Tour
-- Unithon
-- Nexters
+- LikeLion Tutor
+  - 2017.01 - 2017.12 (1 year)
+  - Web Programming club that teaches non-CS based students in 130 University in Korea
+  - Teached 20 students Web Programming in Sogang University
+
+- Seattle & Silicon Valley Hackathon Tour
+  - 2017.07 - 2017.08 (2 months)
+  - Attened Four Hackathons in Seattle & Silicon Valley by myself
+  - Future Me / image recognition fitness web application that makes an avatar of you based on selfie
+    - Developed by myself with one designer
+  - Speech Like Jobs / speech recognition web application that helps you speech
+    - Developed by myself (solo team)
+  - Dorbom / face recognition web application that tells you the status of baby based on her face
+    - Developed by 2 Developers (Senior Developer at Silicon Valley)
+
 - Oarmys
+  - 2016.07 - 2017.01 (7 months)
+  - Founding News curation service for korean soldiers
+  - Developed an Web site for register & automated news sending to users
+  - Worked with a designer, a marketer and two content curators
