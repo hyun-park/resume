@@ -8,18 +8,14 @@ Seeking a job in the field of software engineering especially in web technologie
 
 ## Education
 
-Sogang University | Seoul, Korea
+**Sogang University** | Seoul, Korea
 Double major in Convergence Software and Business
 Anticipated date of graduation: June, 2019  
 
-Relevant Coursework
+#### Relevant Coursework
 - Advanced Internet Programming (TCP/IP protocol, Socket Programming, PHP, HTML5, Javascript)
 - Advanced Software Programming (Python, Django, Flask, Numpy, Pandas, Tensorflow, Github) -
 - Introduction to Conversational User Interfaces  (Theory of Voice Recognition Technology)
-
-
-## Relevant Coursework
-
 
 
 ## Technical Skills
