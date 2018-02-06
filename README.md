@@ -8,8 +8,8 @@ Seeking a job in the field of software engineering especially in web technologie
 
 ## Education
 
-**Sogang University** | Seoul, Korea
-Double major in Convergence Software and Business
+**Sogang University** | Seoul, Korea  
+Double major in Convergence Software and Business  
 Anticipated date of graduation: June, 2019  
 
 #### Relevant Coursework
