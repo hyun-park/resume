@@ -3,85 +3,58 @@
 
 ## Objective
 
-Seeking a job in the field of software engineering
+Seeking a job in the field of software engineering especially in web technologies. Skills and Experience learned from making over ten web/apps, participating multiple Hackathons and founding two startups will provide solid support to a suitable company.
+
 
 ## Education
 
-Sogang University in Seoul, Korea / Junior status  
-Double major in Convergence Software and Business  
+Sogang University | Seoul, Korea
+Double major in Convergence Software and Business
 Anticipated date of graduation: June, 2019  
 
-## Skills
+Relevant Coursework
+- Advanced Internet Programming (TCP/IP protocol, Socket Programming, PHP, HTML5, Javascript)
+- Advanced Software Programming (Python, Django, Flask, Numpy, Pandas, Tensorflow, Github) -
+- Introduction to Conversational User Interfaces  (Theory of Voice Recognition Technology)
+
+
+## Relevant Coursework
+
+
+
+## Technical Skills
 
 - Programming Language  
-  - Javascript, Ruby, Python, R, Java, PHP, NodeJS, HTML5, CSS
+  - Javascript, Ruby, Python, R, Java, PHP, NodeJS, SQL, HTML5, CSS
 - Programming Frameworks  
-  - Ruby On Rails, Flask, Spring, Express, Angular, Bootstrap
+  - Angular, Ruby On Rails, Flask, Spring, Express, Bootstrap
 - Programming Tools  
-  - Github, AWS, Heroku, Firebase, Jupyter, Atom, Eclipse
-- Collaborating Tools  
-  - Slack, Trello, Zeplin
+  - Github, AWS, Heroku, MySQL, MongoDB, Firebase, Jupyter, Atom, Eclipse
 
 ## Project Experience
 
-- Luvpage  
-  - 2017.05 - 2017.08 (4 Month)
-  - A Machine Learning Mobile Application that predicts Probaility of couple matching
-  - Four Developers and One Designer Participated
-  - Responsible for Restful API Server that connects Android & iOS Application with Tensorflow Machine Learning Server.
-  - Used Nginx + Ruby On Rails + MongoDB for Rest API Server
-  - Used JWT (JSON Web Token) for user authentication & FCM (Firebase Cloud Messaging) for push notification
-  - Our Team was selected as Google Cloud Platform Korea 2017 Speaker
+- Luvpago (Sever Developer) 05/2017 – 08/2017
+  A machine learning mobile application that predicts success probability of couple matching
+  - Rest API Server (Nginx, Ruby On Rails, RabbitMQ, Mongo DB)
+  - Mobile Optimization (JWT Authentication, FCM push notification)
+  * Android: https://goo.gl/4EXnF3  |  iOS: https://goo.gl/JV47Tw
 
-  - Android: https://goo.gl/4EXnF3
-  - iOS: https://goo.gl/JV47Tw
-  - Github: https://github.com/Rocket-Hyun/__RailsAPI__ssumtago_sever
+- Presentaion-Bbal (Team Leader)  26 – 28/01/2018 (Hackathon Project)
+  An Web Prompter that helps speaker by showing the scripts handled by voice recognition mobile application
+  - Web Frontend (HTML5, CSS, JS, Jquery, ejs)
+  - Web Backend (NodeJS, SocketIO, MySQL)
+  * First Place in Hackathon Sponsored by Microsoft, AWS, Naver etc.
 
-- Presentation-Bbal
-  - 2018.01 (3 Days Hackathon Project)
-  - Speech Recognition Prompter (Script Slider) Web Application with Mobile Application ---
-  - Five Developers and One Designer Participated
-  - Responsible for Web Application Front-End that changes scripts in real-time by voice data sent from mobile application.
-  - Used Jquery with NodeJS ejs template
-  - Used Socket.io for connecting server and Android application
-  - Won First Place in Hackathon called Unithon
 
-- Woong's road
-  - 2016.06 - 2016.08 (3 Month)
-  - Map Based Web-Mobile Hybrid Application that shows all the Pokemon Go's PokeStops in Korea.
-  - Five Developers
-  - Responsible for Front-End Map that shows over 20,000 marks on the map efficiently
-  - Used Nginx + Ruby On Rails for server
-  - Used Map API to show real maps
-  - Over 30,000 user download
+- Download Manager (Naver Corp. Software Developer Internship)  12/2017 – 02/2018
+  Prototyped Web Standard Common Download Manager for every download services in Naver Corp.
+  - Web Frontend (HTML5, CSS, JS, Jquery, Bootstrap)
+  - Web Backend (Nginx, Rails, Python, MySQL)
+  - Technology research about Web API, Network and Compression
+
 
 ## Activity
 
-- Naver Software Developer Internship  
-  - 2017.12 - 2018.02 (7 weeks)
-  - Worked in Naver which is one of the Korea's biggest software company
-  - Prototyped Web Standard Download Manager for all download services in Naver
-  - Learned knowledge about HTTP, TCP/IP and network programming
-  - Learned Advanced Javascript Skills in Web W3C standards
-  - Learned programming skills like naming convention, modular programming etc.
-
-- LikeLion Tutor
-  - 2017.01 - 2017.12 (1 year)
-  - Web Programming club that teaches non-CS based students in 130 University in Korea
-  - Teached 20 students Web Programming in Sogang University
-
-- Seattle & Silicon Valley Hackathon Tour
-  - 2017.07 - 2017.08 (2 months)
-  - Attened Four Hackathons in Seattle & Silicon Valley by myself
-  - Future Me / image recognition fitness web application that makes an avatar of you based on selfie
-    - Developed by myself with one designer
-  - Speech Like Jobs / speech recognition web application that helps you speech
-    - Developed by myself (solo team)
-  - Dorbom / face recognition web application that tells you the status of baby based on her face
-    - Developed by 2 Developers (Senior Developer at Silicon Valley)
-
-- Oarmys
-  - 2016.07 - 2017.01 (7 months)
-  - Founding News curation service for korean soldiers
-  - Developed an Web site for register & automated news sending to users
-  - Worked with a designer, a marketer and two content curators
+- Tutor, LikeLion – Nonprofit Web Programming Education Organization 01/2017 – 12/2017
+- Seattle & Silicon Valley Hackathon Tour – Participated 4 Hackathons 07/2017 – 08/2017
+- Founder, Oarmys – News Curation Startup for Korean Soldiers 07/2016 – 01/2017
