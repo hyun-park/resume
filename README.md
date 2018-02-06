@@ -29,20 +29,21 @@ Anticipated date of graduation: June, 2019
 
 ## Project Experience
 
-- Luvpago (Sever Developer) 05/2017 – 08/2017
+- Luvpago (Sever Developer) 05/2017 – 08/2017  
   A machine learning mobile application that predicts success probability of couple matching
   - Rest API Server (Nginx, Ruby On Rails, RabbitMQ, Mongo DB)
   - Mobile Optimization (JWT Authentication, FCM push notification)
   * Android: https://goo.gl/4EXnF3  |  iOS: https://goo.gl/JV47Tw
+  
 
-- Presentaion-Bbal (Team Leader)  26 – 28/01/2018 (Hackathon Project)
+- Presentaion-Bbal (Team Leader)  26 – 28/01/2018 (Hackathon Project)  
   An Web Prompter that helps speaker by showing the scripts handled by voice recognition mobile application
   - Web Frontend (HTML5, CSS, JS, Jquery, ejs)
   - Web Backend (NodeJS, SocketIO, MySQL)
   * First Place in Hackathon Sponsored by Microsoft, AWS, Naver etc.
 
 
-- Download Manager (Naver Corp. Software Developer Internship)  12/2017 – 02/2018
+- Download Manager (Naver Corp. Software Developer Internship)  12/2017 – 02/2018  
   Prototyped Web Standard Common Download Manager for every download services in Naver Corp.
   - Web Frontend (HTML5, CSS, JS, Jquery, Bootstrap)
   - Web Backend (Nginx, Rails, Python, MySQL)
