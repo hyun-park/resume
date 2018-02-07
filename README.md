@@ -1,5 +1,5 @@
 # JUNGHYUN PARK  
-+82)10-0000-0000 / rockethyun@gmail.com / [github.com/Rocket-Hyun](github.com/Rocket-Hyun) / [linkedin.com/in/rockethacker](linkedin.com/in/rockethacker)
++82)10-0000-0000 / rockethyun@gmail.com / [github.com/Rocket-Hyun](https://github.com/Rocket-Hyun) / [linkedin.com/in/rockethacker](https://linkedin.com/in/rockethacker)
 
 ## Objective
 
