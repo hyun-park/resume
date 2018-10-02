@@ -2,13 +2,9 @@
 
 +82)10-0000-0000 | rockethyun@gmail.com | [github.com/hyun-park](https://github.com/hyun-park) | [linkedin.com/in/jhyunpark](https://www.linkedin.com/in/jhyunpark/?locale=en_US)
 
----
-
 ## Objective
 
 A skilled, user obsessed and enthusiastic business and software engineering student with extensive experience developing successful software services, participating in global hackathons and founding a startup. Now seeking professional advancement in a business-software role for a cutting-edge organization that produces software products which will impact lots of users.
-
----
 
 ## Education
 
@@ -27,8 +23,6 @@ Double major in Business and Computer Science
 
 *   HTML, CSS, and JavaScript for Web Developers, Single Page Web Applications with AngularJS, Rails with Active Record and Action Pack, Ruby on Rails Web Services, and Integration with MongoDB
 
----
-
 ## Technical Skills
 
 *   Programming Language
@@ -39,8 +33,6 @@ Double major in Business and Computer Science
     *   Ruby on Rails, Node.js (Express), Spring, Flask, SQL, MongoDB
 *   Tools
     *   GitHub, AWS, Heroku, Firebase, RabbitMQ
-
----
 
 ## Work Experiences
 
@@ -64,8 +56,6 @@ _Dec 2017 - Feb 2018_
 *   Prototyped Web Standard Common Download Manager for every download service in Naver Corp.
 *   Performed extensive research on Web API, Network, and Compression and documented findings in GitHub Wiki.
 *   Learned coding convention, style, modularization, and documenting through frequent mentoring.
-
----
 
 ## Projects
 
@@ -150,8 +140,6 @@ _Jan 2017 – Dec 2017_
 [_HTML, CSS, Ruby on Rails_]
 
 *   Worked as a tutor for a nonprofit web programming education organization.
-
----
 
 ## Awards & Honors
 
