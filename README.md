@@ -47,7 +47,7 @@ _Apr 2018 - Oct 2018 (Expected)_
 *   Implemented basic concepts of PWA. (Browser notification)
 *   Implemented outstanding data table design through exclusive UX research.
 
-### **Naver Corp. Software Developer Internship** (Seoungnam, Kore)
+### **Naver Corp. Software Developer Internship** (Seoungnam, Korea)
 
 _Dec 2017 - Feb 2018_
 
