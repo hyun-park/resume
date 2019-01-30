@@ -100,7 +100,7 @@ Improved engineering and communication skills by participating in hackathons in 
 *   Used HTML5 Webcam Recorder and JavaScript to transmit images of a baby’s face to a Flask server on a real-time basis.
 *   Selected as Honorable Mentions in the hackathon.
 
-### **Luvpago** (Sever Developer)
+### **Luvpago** (Server Developer)
 
 _May 2017 – Aug 2017_
 
